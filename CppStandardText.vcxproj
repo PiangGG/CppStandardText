@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FlieReadWrite.cpp" />
+    <ClCompile Include="IgnoreLine.cpp" />
     <ClCompile Include="IOStream.cpp" />
+    <ClCompile Include="OverrideEndl.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,5 +18,14 @@
     <ClCompile Include="IOStream.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="OverrideEndl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IgnoreLine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FlieReadWrite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

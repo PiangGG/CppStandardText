@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-int _main() 
+int _main_1() 
 {
 	char c;
 
@@ -14,4 +14,5 @@ int _main()
 	{
 		cout.put(c);
 	}
+	return 0;
 }

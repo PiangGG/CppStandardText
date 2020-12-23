@@ -1,0 +1,225 @@
+Value 32char: 
+Value 33char:!
+Value 34char:"
+Value 35char:#
+Value 36char:$
+Value 37char:%
+Value 38char:&
+Value 39char:'
+Value 40char:(
+Value 41char:)
+Value 42char:*
+Value 43char:+
+Value 44char:,
+Value 45char:-
+Value 46char:.
+Value 47char:/
+Value 48char:0
+Value 49char:1
+Value 50char:2
+Value 51char:3
+Value 52char:4
+Value 53char:5
+Value 54char:6
+Value 55char:7
+Value 56char:8
+Value 57char:9
+Value 58char::
+Value 59char:;
+Value 60char:<
+Value 61char:=
+Value 62char:>
+Value 63char:?
+Value 64char:@
+Value 65char:A
+Value 66char:B
+Value 67char:C
+Value 68char:D
+Value 69char:E
+Value 70char:F
+Value 71char:G
+Value 72char:H
+Value 73char:I
+Value 74char:J
+Value 75char:K
+Value 76char:L
+Value 77char:M
+Value 78char:N
+Value 79char:O
+Value 80char:P
+Value 81char:Q
+Value 82char:R
+Value 83char:S
+Value 84char:T
+Value 85char:U
+Value 86char:V
+Value 87char:W
+Value 88char:X
+Value 89char:Y
+Value 90char:Z
+Value 91char:[
+Value 92char:\
+Value 93char:]
+Value 94char:^
+Value 95char:_
+Value 96char:`
+Value 97char:a
+Value 98char:b
+Value 99char:c
+Value100char:d
+Value101char:e
+Value102char:f
+Value103char:g
+Value104char:h
+Value105char:i
+Value106char:j
+Value107char:k
+Value108char:l
+Value109char:m
+Value110char:n
+Value111char:o
+Value112char:p
+Value113char:q
+Value114char:r
+Value115char:s
+Value116char:t
+Value117char:u
+Value118char:v
+Value119char:w
+Value120char:x
+Value121char:y
+Value122char:z
+Value123char:{
+Value124char:|
+Value125char:}
+Value126char:~
+Value127char:
+Value128char:Ä
+Value129char:Å
+Value130char:Ç
+Value131char:É
+Value132char:Ñ
+Value133char:Ö
+Value134char:Ü
+Value135char:á
+Value136char:à
+Value137char:â
+Value138char:ä
+Value139char:ã
+Value140char:å
+Value141char:ç
+Value142char:é
+Value143char:è
+Value144char:ê
+Value145char:ë
+Value146char:í
+Value147char:ì
+Value148char:î
+Value149char:ï
+Value150char:ñ
+Value151char:ó
+Value152char:ò
+Value153char:ô
+Value154char:ö
+Value155char:õ
+Value156char:ú
+Value157char:ù
+Value158char:û
+Value159char:ü
+Value160char:†
+Value161char:°
+Value162char:¢
+Value163char:£
+Value164char:§
+Value165char:•
+Value166char:¶
+Value167char:ß
+Value168char:®
+Value169char:©
+Value170char:™
+Value171char:´
+Value172char:¨
+Value173char:≠
+Value174char:Æ
+Value175char:Ø
+Value176char:∞
+Value177char:±
+Value178char:≤
+Value179char:≥
+Value180char:¥
+Value181char:µ
+Value182char:∂
+Value183char:∑
+Value184char:∏
+Value185char:π
+Value186char:∫
+Value187char:ª
+Value188char:º
+Value189char:Ω
+Value190char:æ
+Value191char:ø
+Value192char:¿
+Value193char:¡
+Value194char:¬
+Value195char:√
+Value196char:ƒ
+Value197char:≈
+Value198char:∆
+Value199char:«
+Value200char:»
+Value201char:…
+Value202char: 
+Value203char:À
+Value204char:Ã
+Value205char:Õ
+Value206char:Œ
+Value207char:œ
+Value208char:–
+Value209char:—
+Value210char:“
+Value211char:”
+Value212char:‘
+Value213char:’
+Value214char:÷
+Value215char:◊
+Value216char:ÿ
+Value217char:Ÿ
+Value218char:⁄
+Value219char:€
+Value220char:‹
+Value221char:›
+Value222char:ﬁ
+Value223char:ﬂ
+Value224char:‡
+Value225char:·
+Value226char:‚
+Value227char:„
+Value228char:‰
+Value229char:Â
+Value230char:Ê
+Value231char:Á
+Value232char:Ë
+Value233char:È
+Value234char:Í
+Value235char:Î
+Value236char:Ï
+Value237char:Ì
+Value238char:Ó
+Value239char:Ô
+Value240char:
+Value241char:Ò
+Value242char:Ú
+Value243char:Û
+Value244char:Ù
+Value245char:ı
+Value246char:ˆ
+Value247char:˜
+Value248char:¯
+Value249char:˘
+Value250char:˙
+Value251char:˚
+Value252char:¸
+Value253char:˝
+Value254char:˛
+Value255char:ˇ
+÷–π˙“ª∂®«ø
