@@ -1,0 +1,2 @@
+D:\Code\C++\CppStandardText\Debug\CppStandardText.exe
+D:\Code\C++\CppStandardText\Debug\CppStandardText.pdb
