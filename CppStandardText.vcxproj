@@ -142,7 +142,14 @@
     <ClCompile Include="FlieReadWrite.cpp" />
     <ClCompile Include="IgnoreLine.cpp" />
     <ClCompile Include="IOStream.cpp" />
+    <ClCompile Include="LCONFIG_3.cpp" />
+    <ClCompile Include="LCONFIG_5.cpp" />
+    <ClCompile Include="LCONFIG_8.cpp" />
+    <ClCompile Include="LCONFIG_TEMPORARY_OBJECT.cpp" />
+    <ClCompile Include="Locales.cpp" />
     <ClCompile Include="OverrideEndl.cpp" />
+    <ClCompile Include="StreamCopyFile.cpp" />
+    <ClCompile Include="TextGCC_ConstSeting.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

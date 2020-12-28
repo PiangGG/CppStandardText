@@ -13,19 +13,46 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\CPPStand">
+      <UniqueIdentifier>{a8645a86-026c-4211-be3b-7b24c7da3ad2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CPPSTL">
+      <UniqueIdentifier>{bae80f51-0c4f-4ed5-af0c-e33e6b02c1c7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IOStream.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="OverrideEndl.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="IgnoreLine.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="TextGCC_ConstSeting.cpp">
+      <Filter>源文件\CPPStand</Filter>
     </ClCompile>
     <ClCompile Include="FlieReadWrite.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\CPPStand</Filter>
+    </ClCompile>
+    <ClCompile Include="IgnoreLine.cpp">
+      <Filter>源文件\CPPStand</Filter>
+    </ClCompile>
+    <ClCompile Include="IOStream.cpp">
+      <Filter>源文件\CPPStand</Filter>
+    </ClCompile>
+    <ClCompile Include="Locales.cpp">
+      <Filter>源文件\CPPStand</Filter>
+    </ClCompile>
+    <ClCompile Include="OverrideEndl.cpp">
+      <Filter>源文件\CPPStand</Filter>
+    </ClCompile>
+    <ClCompile Include="StreamCopyFile.cpp">
+      <Filter>源文件\CPPStand</Filter>
+    </ClCompile>
+    <ClCompile Include="LCONFIG_3.cpp">
+      <Filter>源文件\CPPSTL</Filter>
+    </ClCompile>
+    <ClCompile Include="LCONFIG_5.cpp">
+      <Filter>源文件\CPPSTL</Filter>
+    </ClCompile>
+    <ClCompile Include="LCONFIG_8.cpp">
+      <Filter>源文件\CPPSTL</Filter>
+    </ClCompile>
+    <ClCompile Include="LCONFIG_TEMPORARY_OBJECT.cpp">
+      <Filter>源文件\CPPSTL</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
