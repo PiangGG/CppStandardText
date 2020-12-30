@@ -54,5 +54,14 @@
     <ClCompile Include="LCONFIG_TEMPORARY_OBJECT.cpp">
       <Filter>源文件\CPPSTL</Filter>
     </ClCompile>
+    <ClCompile Include="2JJALLOC.h">
+      <Filter>源文件\CPPSTL</Filter>
+    </ClCompile>
+    <ClCompile Include="2JJALLOC.cpp">
+      <Filter>源文件\CPPSTL</Filter>
+    </ClCompile>
+    <ClCompile Include="3Find.cpp">
+      <Filter>源文件\CPPSTL</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

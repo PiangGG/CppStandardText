@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2JJALLOC.cpp" />
+    <ClCompile Include="2JJALLOC.h" />
+    <ClCompile Include="3Find.cpp" />
     <ClCompile Include="FlieReadWrite.cpp" />
     <ClCompile Include="IgnoreLine.cpp" />
     <ClCompile Include="IOStream.cpp" />
